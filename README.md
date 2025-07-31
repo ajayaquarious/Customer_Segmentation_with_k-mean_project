@@ -1,0 +1,1 @@
+# Customer_Segmentation_with_k-mean_project
